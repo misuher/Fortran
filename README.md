@@ -1,2 +1,2 @@
-Repositorio para tod lo que fui haciendo en la asignatura de libre elección de Fortran
-En aquel entonces no sabia casi nada de programar y estos ejemplos pueden ser realmente caoticos
+This is my very first program, the code is really bad structured but as I said it was the first code.
+It is a command line tool where you can select a bmp image from your computer, you can apply 6 different filters and of course save the result in a new file.
